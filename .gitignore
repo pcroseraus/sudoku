@@ -1,0 +1,15 @@
+#Ignore logs
+*.log
+
+#Ignore target
+target/
+
+#Ignore class files
+*.class
+
+#Ignore jar files
+*.jar
+
+#Ignore property files
+*.properties
+
