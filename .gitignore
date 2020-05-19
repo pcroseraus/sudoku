@@ -2,7 +2,7 @@
 *.log
 
 #Ignore target
-target/
+target
 
 #Ignore class files
 *.class
