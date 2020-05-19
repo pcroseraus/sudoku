@@ -21,8 +21,8 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 /**
- *
- * @author roserp
+ * This is the main file responsible for starting the application
+ * 
  */
 public class SudokuMain implements ActionListener{
 
