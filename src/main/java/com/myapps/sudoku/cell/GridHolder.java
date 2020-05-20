@@ -14,7 +14,9 @@ import java.util.Map;
 /**
  * This file contains a Grid that describes the cells in a sudoku grid. 
  * A 9 x 9 matrix, that contains 9 3 x 3 grids. Adding More information to the 
- * Grid Holder for a better rebase in Netbeans. 
+ * Grid Holder for a better rebase in Netbeans. Now I will add some more into
+ * the documentation from the GridHolderModifications branch that I created
+ * to test rebasing and merging. 
  * 
  * @author roserp
  */
