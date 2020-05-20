@@ -12,7 +12,8 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- *
+ * This file contains a Grid that describes the cells in a sudoku grid. 
+ * A 9 x 9 matrix, that contains 9 3 x 3 grids. 
  * @author roserp
  */
 public class GridHolder {
