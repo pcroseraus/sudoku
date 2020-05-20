@@ -13,7 +13,9 @@ import java.util.Map;
 
 /**
  * This file contains a Grid that describes the cells in a sudoku grid. 
- * A 9 x 9 matrix, that contains 9 3 x 3 grids. 
+ * A 9 x 9 matrix, that contains 9 3 x 3 grids. Adding More information to the 
+ * Grid Holder for a better rebase in Netbeans. 
+ * 
  * @author roserp
  */
 public class GridHolder {
